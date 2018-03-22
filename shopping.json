@@ -1,16 +1,16 @@
 {
 	"stuff": [
 		{
-			"item-to-get": "onions"
+			"itemtoget": "onions"
 		},
 		{
-			"item-to-get": "garlic"
+			"itemtoget": "garlic"
 		},
 		{
-			"item-to-get": "eggs"
+			"itemtoget": "eggs"
 		},
 		{
-			"item-to-get": "turmeric"
+			"itemtoget": "turmeric"
 		}
 	]
 }
