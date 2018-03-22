@@ -4,13 +4,18 @@
 			"itemtoget": "onions"
 		},
 		{
-			"itemtoget": "garlic"
-		},
-		{
 			"itemtoget": "eggs"
 		},
 		{
 			"itemtoget": "turmeric"
+		}
+	],
+	"common": [
+		{
+			"itemtoget": "garlic"
+		},
+		{
+			"itemtoget": "eggs"
 		}
 	]
 }
